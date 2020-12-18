@@ -1,0 +1,1 @@
+I'm working on the backend of a project I only practiced on dummy data. I created a dummy an api gateway on aws and lambda functions and a dynamodb table for that dummy data it worked but I don't know how to apply it on the real project. How to extract data from a given api key and post on a dynamodb table.
